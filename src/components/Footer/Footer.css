@@ -1,0 +1,44 @@
+.footer-principal {
+  background-color: #1e293b;
+  color: #f8fafc;
+  padding: 2.5rem 1rem;
+  margin-top: auto;
+  border-top: 1px solid #334155;
+}
+
+.footer-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+  align-items: center;
+}
+
+.footer-brand {
+  font-size: 1.15rem;
+  margin: 0;
+  color: #a7f3d0;
+}
+
+.footer-author {
+  font-size: 0.95rem;
+  color: #cbd5e1;
+  margin: 0;
+}
+
+.footer-links {
+  display: flex;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+  justify-content: center;
+  font-size: 0.9rem;
+  color: #94a3b8;
+  margin-top: 0.5rem;
+}
+
+.footer-links span i {
+  color: #34d399;
+  margin-right: 5px;
+}

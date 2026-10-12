@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Kit Anti-Age Rejuvenecedor",
+    "description": "Tratamiento intensivo con retinol vegetal, ácido hialurónico y péptidos para atenuar líneas de expresión y devolver la firmeza.",
+    "price": 28500,
+    "image": "/img/products/kit-anti-age.png",
+    "category": "kits"
+  },
+  {
+    "id": 2,
+    "name": "Kit Antioxidante Iluminador",
+    "description": "Fórmula con alta concentración de Vitamina C pura y niacinamida. Ilumina el tono apagado y combate los radicales libres.",
+    "price": 24900,
+    "image": "/img/products/kit-antioxidante-iluminador.png",
+    "category": "kits"
+  },
+  {
+    "id": 3,
+    "name": "Kit Pieles Mixtas y Grasas",
+    "description": "Solución equilibrante con ácido salicílico, zinc y extracto de té verde para regular el sebo y purificar los poros.",
+    "price": 22400,
+    "image": "/img/products/kit-pieles-mixtas-grasas.png",
+    "category": "kits"
+  },
+  {
+    "id": 4,
+    "name": "Crema Radian C Lightening",
+    "description": "Crema aclarante revitalizante con activos botánicos y textura sedosa. Proporciona hidratación profunda durante 24 horas.",
+    "price": 18200,
+    "image": "/img/products/crema-radian-c-lightening.png",
+    "category": "cremas"
+  },
+  {
+    "id": 5,
+    "name": "Kit Vinoterapia Icono",
+    "description": "Exclusivo tratamiento regenerador a base de polifenoles de uva y resveratrol. Nutrición antioxidante de nivel profesional.",
+    "price": 31000,
+    "image": "/img/products/kit-vinoterapia-icono.png",
+    "category": "kits"
+  }
+]
